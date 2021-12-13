@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shevotool
 - 👀 I’m interested in develop projects
-- 🌱 I’m currently learning wep develop
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently improving my skills
+- 💞️ I’m looking for collaborating on projects
 - 📫 How to reach me shevo25gonzalez@gmail.com
 
 <!---
