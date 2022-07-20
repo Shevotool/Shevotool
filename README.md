@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer and passionate about technology from Costa Rica<br>🔭 I’m currently working at Arcade🛸<br>👯 I’m looking to collaborate on some projects<br>🌱 I’m currently learning JavaScript and Angular<br>💬 Ask me about programming and technology
+Software Developer and passionate about technology from Costa Rica<br>🔭 I’m currently working at Arcade 🛸<br>👯 I’m looking to collaborate on some projects<br>🌱 I’m currently learning JavaScript and Angular<br>💬 Ask me about programming and technology
 
 
 ## 🌐 Socials:
