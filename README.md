@@ -1,5 +1,6 @@
 # 💫 About Me:
-Software Developer and passionate about technology from Costa Rica<br>🔭 I’m currently working at Arcade 🛸<br>👯 looking to collaborate on some projects<br>🌱  Currently focusing to broad my knowledge in JavaScript<br>🛸 I enjoy reading Elocuent JavaScript and practicing on Codewars <br>💬 Ask me about programming and technology
+Software Developer and passionate about technology from Costa Rica<br>🔭 I’m currently working at Arcade 🛸<br>👯 looking to collaborate on some projects<br>🌱  Currently focusing to broad my knowledge in JavaScript<br>🛸 I enjoy reading Elocuent JavaScript and practicing on Codewars<br>![image](https://user-images.githubusercontent.com/89161075/188799844-4b63f564-536f-4bdd-8186-a0ac5e0a99eb.png)
+<br> <br>💬 Ask me about programming and technology
 
 
 ## 🌐 Socials:
