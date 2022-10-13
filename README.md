@@ -1,6 +1,6 @@
 # 💫 About Me:
 Software Developer and passionate about technology from Costa Rica<br>🔭 I’m currently working at Arcade 🛸<br>👯 looking to collaborate on some projects<br>🌱  Currently focusing to broad my knowledge in JavaScript<br>🛸 I enjoy reading Elocuent JavaScript, practicing on Freecodecamp and Codewars &nbsp;&nbsp;     ![Badge Developing](https://www.codewars.com/users/Shevox/badges/small)   
-<br>💬 Ask me about programming and technology
+💬 Ask me about programming and technology
 
 
 ## 🌐 Socials:
