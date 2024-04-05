@@ -1,8 +1,8 @@
 # 💫 About Me:
-Front end Developer - QA Developer.<br>
+Software Developer - QA Developer.<br>
 My website: https://andresgonzalezsh.netlify.app
 <br>
-Software Developer and passionate about technology from Costa Rica.<br>🔭 I’m currently working as a QA Developer at Arcade. 🛸<br>👯 looking to collaborate on some projects.<br>🌱  Currently focusing to broad my knowledge in JavaScript.<br>🛸 I enjoy reading Elocuent JavaScript, practicing on Freecodecamp and Codewars. &nbsp;&nbsp;     ![Badge Developing](https://www.codewars.com/users/Shevox/badges/small)  
+Software Developer and passionate about technology from Costa Rica.<br>🔭 I’m currently working as a Software Developer at Q6 Cyber. 🛸<br>👯 looking to collaborate on some projects.<br>🌱  Currently focusing to broad my knowledge in the JavaScript world.<br>🛸 I enjoy reading Elocuent JavaScript, practicing on Freecodecamp and Codewars. &nbsp;&nbsp;     ![Badge Developing](https://www.codewars.com/users/Shevox/badges/small)  
 💬 Ask me about programming and technology
 
 
